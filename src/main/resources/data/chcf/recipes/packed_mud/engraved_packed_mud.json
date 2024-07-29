@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:packed_mud"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:engraved_packed_mud"
+      }
+    ]
+  }

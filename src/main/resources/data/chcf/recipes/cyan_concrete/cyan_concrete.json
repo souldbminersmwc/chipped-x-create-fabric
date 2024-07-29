@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:cyan_concrete"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "minecraft:cyan_concrete"
+      }
+    ]
+  }

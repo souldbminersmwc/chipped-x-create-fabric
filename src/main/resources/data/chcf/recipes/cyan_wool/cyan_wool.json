@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "tag": "chipped:cyan_wool"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "minecraft:cyan_wool"
+      }
+    ]
+  }

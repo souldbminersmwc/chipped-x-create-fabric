@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:red_carpet"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:cornered_red_carpet"
+      }
+    ]
+  }

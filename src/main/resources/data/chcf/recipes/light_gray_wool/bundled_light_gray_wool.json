@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:light_gray_wool"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:bundled_light_gray_wool"
+      }
+    ]
+  }

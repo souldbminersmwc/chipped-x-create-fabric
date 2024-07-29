@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:vine"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:flowery_vine"
+      }
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:lantern"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:small_green_lantern"
+      }
+    ]
+  }

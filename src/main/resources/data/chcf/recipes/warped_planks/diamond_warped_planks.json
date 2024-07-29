@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:warped_planks"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:diamond_warped_planks"
+      }
+    ]
+  }

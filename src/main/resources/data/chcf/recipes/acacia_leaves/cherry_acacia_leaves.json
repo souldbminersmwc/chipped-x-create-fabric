@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:acacia_leaves"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:cherry_acacia_leaves"
+      }
+    ]
+  }

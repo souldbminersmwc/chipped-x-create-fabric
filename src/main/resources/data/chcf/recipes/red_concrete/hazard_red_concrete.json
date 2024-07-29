@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:red_concrete"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:hazard_red_concrete"
+      }
+    ]
+  }

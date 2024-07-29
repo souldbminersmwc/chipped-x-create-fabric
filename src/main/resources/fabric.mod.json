@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "chcf",
+	"version": "${version}",
+	"name": "Chipped x Create Fabric",
+	"description": "Port of Crafting Recipes For Create to Fabric / Quilt",
+	"authors": [
+		"Souldbminer and BrayDo2010"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/chcf/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.souldb.ChippedCreateFabric"
+		],
+		"client": [
+			"com.souldb.ChippedCreateFabricClient"
+		]
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"create": "*",
+		"chipped": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

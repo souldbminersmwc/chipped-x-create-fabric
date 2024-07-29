@@ -1,0 +1,15 @@
+{
+
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "minecraft:gravel"
+      }
+    ],
+    "processingTime": 50,
+    "results": [
+      {
+        "item": "chipped:dirty_gravel"
+      }
+    ]
+  }
